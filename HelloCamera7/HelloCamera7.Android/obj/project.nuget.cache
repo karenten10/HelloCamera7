@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lJfN1OGI+kA1fYCiIexCeaMRB3Mv8A8QVXMWhU2+VPzaPVqG0DLAGMVXBjWi3fp4i5do25wzuYnorFJGERGeUQ==",
+  "dgSpecHash": "/1EiXMyK8e8dfMFz9A54qIWGOSDkujM4gxro66Yu2VdXjl72JyGNES2y7NbmNprunBGGEeRNnxK2ZhD/nhQXqQ==",
   "success": true,
   "projectFilePath": "D:\\practice\\xamarin\\HelloCamera7\\HelloCamera7\\HelloCamera7.Android\\HelloCamera7.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Karen\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\prism.unity.forms\\8.0.0.1909\\prism.unity.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Karen\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "C:\\Users\\Karen\\.nuget\\packages\\unity.abstractions\\5.11.6\\unity.abstractions.5.11.6.nupkg.sha512",

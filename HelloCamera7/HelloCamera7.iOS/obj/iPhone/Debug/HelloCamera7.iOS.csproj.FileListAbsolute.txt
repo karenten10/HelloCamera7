@@ -125,3 +125,5 @@ D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\obj\iPhone\Debug\
 D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\obj\iPhone\Debug\device-builds\iphone11.6-14.2\CopyFilesToMac\HelloCamera7.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\obj\iPhone\Debug\device-builds\iphone11.6-14.2\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
 D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\obj\iPhone\Debug\device-builds\iphone11.6-14.2\CopyFilesToMac\Info.plist.NoneOutput.stamp
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\bin\iPhone\Debug\PropertyChanged.dll
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7.iOS\obj\iPhone\Debug\device-builds\iphone11.6-14.2\CopyFilesToMac\PropertyChanged.dll.ReferenceCopyLocalPaths.stamp
