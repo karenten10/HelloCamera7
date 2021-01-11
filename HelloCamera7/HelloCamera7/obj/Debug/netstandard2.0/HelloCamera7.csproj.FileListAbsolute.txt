@@ -1,0 +1,12 @@
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\bin\Debug\netstandard2.0\HelloCamera7.deps.json
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\bin\Debug\netstandard2.0\HelloCamera7.dll
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\bin\Debug\netstandard2.0\HelloCamera7.pdb
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.csprojAssemblyReference.cache
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.AssemblyInfoInputs.cache
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.AssemblyInfo.cs
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.csproj.CoreCompileInputs.cache
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\XamlC.stamp
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.dll
+D:\practice\xamarin\HelloCamera7\HelloCamera7\HelloCamera7\obj\Debug\netstandard2.0\HelloCamera7.pdb
