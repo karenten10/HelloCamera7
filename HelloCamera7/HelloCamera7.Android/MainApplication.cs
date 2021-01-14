@@ -4,9 +4,18 @@ using Android.Runtime;
 
 namespace HelloCamera7.Droid
 {
+#if DEBUG
     [Application(
-        Theme = "@style/MainTheme"
+        Theme = "@style/MainTheme",
+        Debuggable = true
         )]
+#else
+    [Application(
+        Theme = "@style/MainTheme",
+        Debuggable = false
+        )]
+#endif
+
     public class MainApplication : Application
     {
         public MainApplication(IntPtr javaReference, JniHandleOwnership transfer)
